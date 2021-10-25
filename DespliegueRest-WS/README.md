@@ -1,6 +1,6 @@
 # Instalación de servicios REST/WS Wildfly
 
-![logo](https://github.com/Regnierd/Wildfly/blob/main/img/logo.png)
+![logo](https://github.com/Regnierd/Wildfly/blob/main/DespliegueRest-WS/img/logo.png)
 
 ## Índice
 
